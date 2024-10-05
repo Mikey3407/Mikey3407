@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 😄 My name is Mike!
+- 🐍 I’m currently learning to get better at coding in Python
+- 💻 I'm working on completing courses in Python and solving Leetcode problems
+- 🏄 My favorite hobby is surfing!
+- 🦦 Capybaras are absolutely amazing!
+
 <!--
 **Mikey3407/Mikey3407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
